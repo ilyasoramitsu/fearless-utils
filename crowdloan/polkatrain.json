@@ -20,25 +20,21 @@
      }
    },
    {
-     "paraid": "2001",
-     "name": "Astar",
-     "token": "ASTR",
-     "description": "Astar is the Polkadot-native dApp hub supporting Ethereum, WebAssembly, dApp Staking, and Layer2 solutions",
-     "website": "https://astar.network/",
-     "icon": "https://astar.network/images/brand-logo-mark.png",
+     "paraid": "2004",
+     "name": "Interlay",
+     "token": "INTR",
+     "description": "Interlay allows you to invest, earn and pay with BTC on any blockchain. Radically open and secured by insurance.",
+     "website": "https://crowdloan.interlay.io/",
+     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/interlay.png",
+     "rewardRate": 10,
      "flow": {
-         "name": "astar",
-         "data": {
-             "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k"
-         }
+       "name": "interlay",
+       "data": {
+         "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
+         "crowdloanInfoUrl": "https://docs.interlay.io/#/interlay/crowdloans",
+         "bonusUrl": "https://docs.interlay.io/#/interlay/crowdloans?id=bonuses",
+         "bonusRate": 0.05
+       }
      }
-   },
-  {
-    "paraid": "2000",
-    "name": "Acala",
-    "token": "ACA",
-    "description": "All-in-one DeFi hub of Polkadot",
-    "website": "https://acala.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
-  }
+   }
 ]
