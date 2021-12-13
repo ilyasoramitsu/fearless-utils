@@ -161,10 +161,9 @@
     "flow": {
       "name": "interlay",
       "data": {
-        "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
+        "fearlessReferral": "0xc9658d8231fbd691a07ced96b295c232622fb503feefe479d686f70b65216c10",
         "crowdloanInfoUrl": "https://docs.interlay.io/#/interlay/crowdloans",
-        "bonusUrl": "https://docs.interlay.io/#/interlay/crowdloans?id=bonuses",
-        "bonusRate": 0.05
+        "bonusUrl": "https://docs.interlay.io/#/interlay/crowdloans?id=bonuses"
       }
     }
   }
